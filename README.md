@@ -20,7 +20,7 @@ M.S. Applied AI — University of San Diego (exp. Jan 2027) · B.Sc. CS, York Un
 | Project | Description |
 |---|---|
 | [Equity Research Agent](https://github.com/denjcodes/equity-research-agent) | Hand-rolled multi-agent system for equity research. Evaluator-optimizer loop, self-reflection, live data from Yahoo Finance, News API, and SEC filings. |
-| [Smart Meter Forecasting](https://github.com/denjcodes/AAI_530_Final_Project) | CNN+LSTM+Attention for IoT load forecasting and spike detection. R²=0.966 (10-min horizon), PR-AUC=0.908 on Moroccan grid data. |
+| [Smart Meter Forecaster](https://github.com/denjcodes/smart-meter-forecaster) | CNN+LSTM+Attention for IoT load forecasting and spike detection. R²=0.966 (10-min horizon), PR-AUC=0.908 on Moroccan grid data. |
 | [ASL Sign Detector](https://github.com/denjcodes/asl-sign-detector) | Rule-based and EfficientNet-based ASL gesture recognition across 29 classes. Deployed on Hugging Face Spaces. |
 | [LLM Contract Analyzer](https://github.com/denjcodes/contract_comparison) | Semantic contract comparison using BERT embeddings and a local LLM. Surfaces material differences across document versions. |
 
