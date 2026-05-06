@@ -19,7 +19,7 @@ M.S. Applied AI — University of San Diego (exp. Jan 2027) · B.Sc. CS, York Un
 
 | Project | Description |
 |---|---|
-| [Agentic Equity Research](https://github.com/denjcodes/AAI_520_Final_Project) | LangGraph multi-agent system for equity analysis. Evaluator-optimizer loop, self-reflection, live data from Yahoo Finance, News API, and SEC filings. |
+| [Equity Research Agent](https://github.com/denjcodes/equity-research-agent) | Hand-rolled multi-agent system for equity research. Evaluator-optimizer loop, self-reflection, live data from Yahoo Finance, News API, and SEC filings. |
 | [Smart Meter Forecasting](https://github.com/denjcodes/AAI_530_Final_Project) | CNN+LSTM+Attention for IoT load forecasting and spike detection. R²=0.966 (10-min horizon), PR-AUC=0.908 on Moroccan grid data. |
 | [ASL Gesture Detection](https://github.com/denjcodes/AAI_521_Final_Project) | Real-time ASL hand gesture classification using MediaPipe landmarks. Deployed on Hugging Face Spaces. |
 | [LLM Contract Analyzer](https://github.com/denjcodes/contract_comparison) | Semantic contract comparison using BERT embeddings and a local LLM. Surfaces material differences across document versions. |
